@@ -68,19 +68,12 @@ trading_bot/
 
 ### Main UI
 
-![Main UI](screenshots/ui_home.png)
+![Main UI](ui_home.png)
 
 ### MARKET Order Example
 
-![Market Order Success](screenshots/market_order_success.png)
+![Market Order Success](market_order_success.png)
 
-### LIMIT Order Example
-
-![Limit Order Success](screenshots/limit_order_success.png)
-
-### STOP-LIMIT Order Form
-
-![Stop Limit Order Form](screenshots/stop_limit_order_form.png)
 
 ---
 
