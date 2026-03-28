@@ -43,7 +43,7 @@ trading_bot/
 │   ├── orders.py
 │   └── validators.py
 │
-├── screenshots/
+├── images/
 ├── cli.py
 ├── ui.py
 ├── requirements.txt
@@ -67,11 +67,11 @@ trading_bot/
 
 ### Main UI
 
-![Main UI](ui_home.png)
+![Main UI](images/ui_home.png)
 
 ### MARKET Order Example
 
-![Market Order Success](market_order_success.png)
+![Market Order Success](images/market_order_success.png)
 
 
 ---
