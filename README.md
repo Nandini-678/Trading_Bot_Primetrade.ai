@@ -43,7 +43,6 @@ trading_bot/
 │   ├── orders.py
 │   └── validators.py
 │
-├── sample_logs/
 ├── screenshots/
 ├── cli.py
 ├── ui.py
@@ -180,6 +179,4 @@ It also handles invalid inputs and Binance API errors gracefully instead of cras
 * Add unit tests
 * Add Docker support
 
-
-Everything else was fluff. If you want, I can trim it even further into a **clean GitHub-style README with only 6 sections**.
-```
+---
