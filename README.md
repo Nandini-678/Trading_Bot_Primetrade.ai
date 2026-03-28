@@ -1,8 +1,4 @@
-Yes. The README is bloated. A project like this does **not** need 20 sections. That looks padded, not professional.
 
-Use this leaner version:
-
-````md
 # Binance Futures Testnet Trading Bot
 
 A Python-based trading bot for **Binance Futures Testnet (USDT-M)** that supports **MARKET**, **LIMIT**, and **STOP-LIMIT** orders through both a **Command Line Interface (CLI)** and a **Streamlit UI**.
